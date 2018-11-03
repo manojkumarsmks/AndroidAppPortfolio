@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Resume</string>
+
+    <string name="name">Manoj Kumar Shivaswami</string>
+    <string name="designation">Software Developer</string>
+
+    <string name="call">Call</string>
+    <string name="email">Email</string>
+    <string name="pdf">PDF</string>
+
+    <!--Tab Names-->
+    <string name="experience">Experience</string>
+    <string name="education">Education</string>
+    <string name="skills">Skills</string>
+
+    <!--rhs job discription-->
+    <string name="rhs_job_discriptpion">\u2022 Designed and Developed Windows forms using c#\n\u2022 Developed and Maintained IsWhere features \n\u2022 Intergrated new sensors data to csv, xml and nmea
+    \n\u2022 Designed, developed and demonstated pixpoint</string>
+
+    <!--csu android developer job discription-->
+    <string name="csu_job_discription">\u2022 Developed app for recording the pesticide usage \n\u2022 Incorporated Maps API for visual conformation
+    \n\u2022 Designed SQlite database to log and retrieve the logs \n</string>
+
+    <string name="coursework">\u2022 Digital System Design \n\u2022 HW/SW Design of Embedde Systems
+        \n\u2022 Computer Architechture
+        \n\u2022 Internet Engineering
+        \n\u2022 Introduction of Analysis of Algorithms
+        \n\u2022 Machine Learning</string>
+
+    <string name="programming_lang">\u2022 Java
+    \n\u2022 J2EE
+    \n\u2022 C#
+    \n\u2022 Android Development
+    \n\u2022 Python
+    \n\u2022 HTML, CSS, Javascript
+    </string>
+
+    <string name="ide">\u2022 Eclipse
+    \n\u2022 Android Studio
+    \n\u2022 Visual Studio
+    \n\u2022 NetBeans
+    \n\u2022 Spyder
+    </string>
+
+    <string name="other_skills">
+        \u2022 Version Control - Git, Github
+        \n\u2022 Database - SQLite, Oracle
+        \n\u2022 Misc -  REST, SOAP, Volley, Glider
+    </string>
+
+</resources>
